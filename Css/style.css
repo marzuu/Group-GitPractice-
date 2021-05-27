@@ -1,10 +1,18 @@
-
-* {
+/* * {
   margin: 0;
   padding: 0;
+} */
+*img {
+  max-width: 100%;
+  margin: auto;
 }
+
 body {
   background-color: pink;
+}
+.wrapper {
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 footer {
@@ -21,9 +29,8 @@ footer h4 {
 }
 
 #beakal {
-    font-size: 50px;
-    background-color: orange;
-    width: 800px;
-    height: 100px;
-  }
-
+  font-size: 50px;
+  background-color: rgb(255, 0, 128);
+  width: 800px;
+  height: 100px;
+}
