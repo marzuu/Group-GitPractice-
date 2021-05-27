@@ -10,7 +10,11 @@ footer {
   background-color: #f1f1f1;
   text-align: center;
 }
-footer h3 h4 {
+footer h3 {
+  padding: 10px;
+  margin: 10px;
+}
+footer h4 {
   padding: 10px;
   margin: 10px;
 }
